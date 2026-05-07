@@ -31,4 +31,4 @@ This is a **learning project** from a training course, not a production codebase
 ## 👩‍💻 Author
 
 **Zaira G. Falco**  
-[LinkedIn](https://www.linkedin.com/in/zairafalco-922174124) · [Portfolio](https://joyous-anteater-63c.notion.site/Zaira-G-Falco-Portfolio-77b8628cdbe44ebe988e348b53c8ba82)
+
